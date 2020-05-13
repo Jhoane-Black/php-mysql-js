@@ -1,4 +1,4 @@
---crear base de datos más CRUD de una libreria "booktore" con PHP y MYSQL
+-- crear base de datos más CRUD de una libreria "booktore" con PHP y MYSQL
 
 drop table if exists book cascade;
 drop table if exists genere cascade;
