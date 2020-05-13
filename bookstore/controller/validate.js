@@ -29,6 +29,6 @@ function validate(){
         alert(mensajeError);
         return false
     }
-    console.log(mensajeError);
+    /*console.log(mensajeError);*/
     return true;
 }
