@@ -1,4 +1,5 @@
 <div>
+    <script type="text\javascript" src="controller\validate.js"></script>
     <form>
             <label>book_id:</label><br>
             <input type="text" book_id="id" name="book_id"><br>
@@ -13,7 +14,6 @@
             <input type="submit" name="create" value="Agregar" onclick="return validate()">
             <a href="../index.php">Regresar</a>
     </form>
-    <script type="text\javascript" src="controller\validate.js"></script>
 </div>
 <?php
 include 'C:\xampp\htdocs\bookstore\controller\connection.php';
