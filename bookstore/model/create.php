@@ -5,11 +5,11 @@
             <label>book_title:</label><br>
             <input type="text" book_id="book_title" name="book_title"><br>
             <label>book_editorial:</label><br>
-            <input type="text" book_id="book_editorial"name="book_editorial"><br>
+            <input type="text" book_id="book_editorial" name="book_editorial"><br>
             <label>book_saga:</label><br>
-            <input type="text" book_id=book_saga name="book_saga"><br>
+            <input type="text" book_id="book_saga" name="book_saga"><br>
             <label>book_price:</label><br>
-            <input type="float" book_id=book_price name="book_price"><br>
+            <input type="float" book_id="book_price" name="book_price"><br>
             <input type="submit" name="create" value="Agregar" onclick="return validate()">
             <a href="../index.php">Regresar</a>
     </form>
