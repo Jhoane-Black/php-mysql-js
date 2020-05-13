@@ -1,5 +1,5 @@
 <div>
-    <script type="text\javascript" src="controller\validate.js"></script>
+    <script type="text\javascript" src="../controller/validate.js"></script>
     <form>
             <label>book_id:</label><br>
             <input type="text" book_id="id" name="book_id"><br>
